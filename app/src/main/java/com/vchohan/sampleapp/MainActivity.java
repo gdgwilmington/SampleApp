@@ -62,7 +62,6 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
         signInButton.setOnClickListener(this);
         signUpButton = (Button) findViewById(R.id.sign_up);
         signUpButton.setOnClickListener(this);
-
     }
 
     @Override
